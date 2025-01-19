@@ -160,7 +160,7 @@ Use Base URL: `http://localhost:3000/`
 ```
 
 ### PUT Czytelnik by ID
-**PUT** `/czytelnicy/:id`
+**PUT** `/czytelnicy/id`
 **Request Body:**
 ```json
 {
@@ -182,7 +182,7 @@ Use Base URL: `http://localhost:3000/`
 ```
 
 ### DELETE Czytelnik by ID
-**DELETE** `/czytelnicy/:id`
+**DELETE** `/czytelnicy/id`
 **Response:**
 ```json
 {
