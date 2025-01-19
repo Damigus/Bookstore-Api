@@ -32,10 +32,10 @@ A step-by-step guide to setting up the development environment:
    `npm i dotenv` `npm i jsonwebtoken` `npm i bcrypt` `npm i express` `npm i bodyParser`
 4. Edit a `config.env` file and update the following variables:
    ```
-   MONGO_USER=yourname
-   MONGO_AUTH=your auth source code
+   MONGO_USER=your username
+   MONGO_AUTH=your authentication cluster code
    MONGO_PASSWORD=your password
-   MONGO_DB_NAME=your data base name
+   MONGO_DB_NAME=your database name
    MONO_CLUSTER=your cluster name
    JWT_KEY=your hash secret key
    ```
