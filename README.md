@@ -72,7 +72,7 @@ Authentication is implemented using JWT (JSON Web Tokens). Users must log in to 
 Use Base URL: `http://localhost:3000/`
 
 ## Register Endpoint
-### POST `/users/signup`
+### POST `/signup`
 **Request Body:**
 ```json
 {
@@ -88,7 +88,7 @@ Use Base URL: `http://localhost:3000/`
 ```
 
 ## Login Endpoint
-### POST `/users/login`
+### POST `/login`
 **Request Body:**
 ```json
 {
@@ -122,7 +122,7 @@ Use Base URL: `http://localhost:3000/`
 ```
 
 ### GET Czytelnik by ID
-**GET** `/czytelnicy/:id`
+**GET** `/czytelnicy/id`
 **Response:**
 ```json
 {
@@ -276,7 +276,7 @@ Use Base URL: `http://localhost:3000/`
 ```
 
 ### DELETE Wypozyczenie by ID
-**DELETE** `/wypozyczenia/:id`
+**DELETE** `/wypozyczenia/id`
 **Response:**
 ```json
 {
@@ -285,7 +285,7 @@ Use Base URL: `http://localhost:3000/`
 ```
 
 ### PUT Wypozyczenie by ID
-**PUT** `/wypozyczenia/:id`
+**PUT** `/wypozyczenia/id`
 **Request Body:**
 ```json
 {
