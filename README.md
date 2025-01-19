@@ -14,7 +14,11 @@
 Back-end REST API for managing a library system.
 
 # Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system. <br>
+<p>Czytelnicy/Czytelnik[PL] - Readers/Reader[ENG] / Reader as a customer of Bookstore</p>
+<p>Ksiazki/Ksiazka[PL] - Books/Book[ENG]</p>
+<p>Wypozyczenia/Wypozyczenie[PL] - Rentals/Rental[ENG]</p>
+
 
 # Installing
 A step-by-step guide to setting up the development environment:
