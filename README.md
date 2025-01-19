@@ -40,7 +40,7 @@ A step-by-step guide to setting up the development environment:
    MONGO_AUTH=your authentication cluster code
    MONGO_PASSWORD=your password
    MONGO_DB_NAME=your database name
-   MONO_CLUSTER=your cluster name
+   MONGO_CLUSTER=your cluster name
    JWT_KEY=your hash secret key
    ```
 5. Create a connection to your database.
