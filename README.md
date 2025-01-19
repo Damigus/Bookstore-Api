@@ -25,7 +25,7 @@ A step-by-step guide to setting up the development environment:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Damigus/ProjektApi.git
+   git clone https://github.com/Damigus/Bookstore-Api.git
    ```
 2. Open the terminal and navigate to the `server` folder:
    ```bash
