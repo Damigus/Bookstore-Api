@@ -7,4 +7,4 @@ const ksiazkaSchema = mongoose.Schema({
     gatunek: { type: String, required: true }
 });
 
-module.exports = mongoose.model("ksiazka", ksiazkaSchema, "Ksiazki");
+module.exports = mongoose.model("Ksiazka", ksiazkaSchema, "Ksiazki");
